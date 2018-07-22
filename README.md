@@ -11,7 +11,7 @@ Did an Exploratory Data Analysis on the data to derive few meaningful trends thr
 ## To Do's and what else can be done? 
 Sentiment analysis on the description to see if it effects views,likes..etc. Analysis of what factors will help a newly uploaded video to trend. Analyzing how to convert views into likes and comments. (All these without taking in the actual content of the video)  
 
-
+link to data: https://www.kaggle.com/datasnaek/youtube-new/home
 Feel free to fork and develope upon the code!
 
 ### Thank you
